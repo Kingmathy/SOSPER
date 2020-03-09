@@ -1,0 +1,52 @@
+    1  cd /workspace/SOS1920_labs; clear
+    2  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    3  cd /workspace/SOS1920_labs; clear
+    4  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    5  cd /workspace/SOS1920_labs; clear
+    6  echo "# SOSPER" >> README.md
+    7  git init
+    8  ls -la
+    9  git add README.md
+   10  git commit -m "first commit"
+   11  git config --global user.email "mathsbotchwey@hotmail.com"
+   12  git config --global user.name "Kingmathy"
+   13  git commit -m "first commit"
+   14  ls
+   15  git remote add origin https://github.com/Kingmathy/SOSPER.git
+   16  git push -u origin master
+   17  ls
+   18  git checkout -b l04
+   19  ls
+   20  git add.
+   21  git add .
+   22  git commit -m "update md"
+   23  git push
+   24  git push -u origen l04
+   25  git push -u origin l04
+   26  git checkout master
+   27  git checkout l04
+   28  node -v
+   29  npm -v
+   30  ls
+   31  npm init
+   32  ls
+   33  touch index.js
+   34  node  index.js
+   35  node index.js
+   36  node index.js I love it
+   37  npm start
+   38  npm install cool-ascii-faces --save
+   39  npm start
+   40  touch .gitignore
+   41  git add .
+   42  git commit -m "created gitignore"
+   43  git push
+   44  ls
+   45  npm install
+   46  npm install express --save
+   47  npm start
+   48  npm install express --save
+   49  npm start
+   50  ls
+   51  npm start
+   52  history > history.txt
